@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://taucero.github.io/posts/bienvenidos-a-hugo/</loc>
+    <loc>https://taucero.github.io/sitio-taucero/posts/bienvenidos-a-hugo/</loc>
     <lastmod>2023-06-05T13:57:36+02:00</lastmod>
   </url><url>
-    <loc>https://taucero.github.io/posts/</loc>
+    <loc>https://taucero.github.io/sitio-taucero/posts/</loc>
     <lastmod>2023-06-05T13:57:36+02:00</lastmod>
   </url><url>
-    <loc>https://taucero.github.io/</loc>
+    <loc>https://taucero.github.io/sitio-taucero/</loc>
     <lastmod>2023-06-05T13:57:36+02:00</lastmod>
   </url><url>
-    <loc>https://taucero.github.io/posts/mi-primer-post/</loc>
+    <loc>https://taucero.github.io/sitio-taucero/posts/mi-primer-post/</loc>
     <lastmod>2023-06-05T13:57:11+02:00</lastmod>
   </url><url>
-    <loc>https://taucero.github.io/contacto/</loc>
+    <loc>https://taucero.github.io/sitio-taucero/contacto/</loc>
     <lastmod>2023-06-05T13:51:50+02:00</lastmod>
   </url><url>
-    <loc>https://taucero.github.io/categories/</loc>
+    <loc>https://taucero.github.io/sitio-taucero/categories/</loc>
   </url><url>
-    <loc>https://taucero.github.io/tags/</loc>
+    <loc>https://taucero.github.io/sitio-taucero/tags/</loc>
   </url>
 </urlset>

@@ -1,4 +1,4 @@
-baseURL = 'https://taucero.github.io/'
+baseURL = 'https://taucero.github.io/sitio-taucero/'
 languageCode = 'es'
 title = 'Taucero'
 theme = 'tale'
