@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://taucero.github.io/'
 languageCode = 'es'
 title = 'Taucero'
 theme = 'tale'

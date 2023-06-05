@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Taucero</title>
-    <link>http://example.org/posts/</link>
+    <link>https://taucero.github.io/posts/</link>
     <description>Recent content in Posts on Taucero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 05 Jun 2023 13:57:36 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jun 2023 13:57:36 +0200</lastBuildDate><atom:link href="https://taucero.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenidos a Hugo</title>
-      <link>http://example.org/posts/bienvenidos-a-hugo/</link>
+      <link>https://taucero.github.io/posts/bienvenidos-a-hugo/</link>
       <pubDate>Mon, 05 Jun 2023 13:57:36 +0200</pubDate>
       
-      <guid>http://example.org/posts/bienvenidos-a-hugo/</guid>
+      <guid>https://taucero.github.io/posts/bienvenidos-a-hugo/</guid>
       <description>Bienvenido a Hugo&amp;hellip;</description>
     </item>
     
     <item>
       <title>Mi Primer Post</title>
-      <link>http://example.org/posts/mi-primer-post/</link>
+      <link>https://taucero.github.io/posts/mi-primer-post/</link>
       <pubDate>Mon, 05 Jun 2023 13:57:11 +0200</pubDate>
       
-      <guid>http://example.org/posts/mi-primer-post/</guid>
+      <guid>https://taucero.github.io/posts/mi-primer-post/</guid>
       <description>Este es el primer post&amp;hellip;</description>
     </item>
     
